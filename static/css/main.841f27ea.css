@@ -1,0 +1,2 @@
+.square{align-items:center;background:#fff;border:2px solid #999;cursor:pointer;display:inline-flex;font-size:32px;font-weight:700;height:50px;justify-content:center;outline:none;width:50px}.board-row{display:flex}.board-row:not(:last-child) .square{border-bottom:none}.square:not(:last-child){border-right:none}.square{font-size:24px;height:60px;width:60px}.highlight{background-color:#ff0}
+/*# sourceMappingURL=main.841f27ea.css.map*/
